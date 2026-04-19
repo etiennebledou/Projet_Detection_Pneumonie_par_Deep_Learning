@@ -1,9 +1,9 @@
-# Projet_Detection_Pneumonie_par_Deep_Learning
+
 
 Détection de la Pneumonie par Deep Learning
 
 
-Description du projet
+DESCRIPTION DU PROJET
 
 Ce projet vise à développer un modèle de Deep Learning capable de détecter la pneumonie à partir d’images de radiographies pulmonaires.
 L’objectif principal est de construire un système fiable d’aide au diagnostic médical, en mettant l’accent sur la détection des cas positifs (Recall) afin de minimiser les risques de faux négatifs.
